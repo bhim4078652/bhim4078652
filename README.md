@@ -1,4 +1,4 @@
-- 👋 Hi, I’m bhimreddy
+- 👋 Hi, I’m Bhimreddy
 - 👀 I’m interested in FPGA based design , AISC design , computer architecture , TPU
 - 🌱 I’m currently learning  ASIC design with open source tools (skywater130nm PDK,openlane), deeplearning to understand the architecture of TPU and low power vlsi design.
 
